@@ -73,6 +73,13 @@ A couple of thoughts:
 3. You might want to set a possibly better goal such as "be able to deploy whenever we need to deploy"
 </b></details>
 
+<details>
+<summary>What is Gitlab CI/CD?</summary><br><b>
+CI/CD =  Continous integration + Continous Delivery : Continously 
+Basically, it's a process of testing, building, and releasing to the deployment environment. That means when a developer commits new code into the GitLab repository, GitLab will automatically execute a CI/CD pipeline that you have configured for your project to release those code changes to the end environment where the end users can access them.
+</b></details>
+
+
 ### Tooling
 
 <details>
