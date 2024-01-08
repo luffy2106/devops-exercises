@@ -102,7 +102,7 @@ A few ideas to think about:
 
 This is a more practical version of the previous question where you might be asked additional specific questions on the technology you chose
 
-  * CI/CD - Jenkins, Circle CI, Travis, Drone, Argo CD, Zuul
+  * CI/CD - Jenkins, Circle CI, Travis, Drone, Argo CD, Zuul, CI/CD Gitlab
   * Provisioning infrastructure - Terraform, CloudFormation
   * Configuration Management - Ansible, Puppet, Chef
   * Monitoring & alerting - Prometheus, Nagios
